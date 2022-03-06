@@ -72,8 +72,7 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
 
   
   
-<span style="color:blue">**PUBLICATIONS**</span>  
-  
+
 ### PUBLICATIONS
   
   
