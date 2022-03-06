@@ -9,6 +9,9 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/habibur-rahaman-00a37117a/) 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Habiburiitkgp) 
 [![Google Scholar]](https://scholar.google.com/citations?user=jU1-z9UAAAAJ&hl=en)
+[![Research Gate]](https://www.researchgate.net/profile/Habibur-Rahaman-8)
+
+
 
 <hr>
 
