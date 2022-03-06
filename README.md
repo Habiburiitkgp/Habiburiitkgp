@@ -35,7 +35,7 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 
 </p>  
   
-![alt text](/images/habibur.jpg)
+![alt text](https://github.com/Habiburiitkgp/Habibur-Rahaman/blob/main/images/habibur.jpg)
 
 
 
