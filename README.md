@@ -162,14 +162,17 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
   
 ### Internships 
   
- 
-**1) Indian Institute of Technology Kharagpur**<span style="float: right; ">May 2018 - Jul 2018</span>  
+**1) Intel Intern**<span style="float: right; ">June 2021 - present</span>
+  
+  *Working as an Intern on Automation of DFT Validation in Post Validation Group at Intel, Bangalore India*
+
+**2) Indian Institute of Technology Kharagpur**<span style="float: right; ">May 2018 - Jul 2018</span>  
 
 *Department of Computer Science and Engineering*  
   
 **Internship Project Title:** Development of a Distributed Security Application using Blockchain Technology under the supervision of Prof. Indranil Sengupta , Department of Computer Science and Engineering, IIT Kharagpur<br>
   
-**2) Summer Internship at Indian Institute of Engineering Science and Technology (Shibpur)**<span style="float: right; ">Jun 2017 - Jul 2017</span> 
+**3) Summer Internship at Indian Institute of Engineering Science and Technology (Shibpur)**<span style="float: right; ">Jun 2017 - Jul 2017</span> 
   
 *Department of Computer Science and Engineering*
   
