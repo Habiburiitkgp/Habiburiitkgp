@@ -155,6 +155,7 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
   
 Internship Project Title: Development of a Distributed Security Application using Blockchain Technology under the supervision of Prof. Indranil Sengupta , Department of Computer Science and Engineering, IIT Kharagpur
   
+<hr>
   
 ### Projects:
 
@@ -162,6 +163,7 @@ Internship Project Title: Development of a Distributed Security Application usin
 <br>Sponsored by *[Synopsys Inc](https://www.synopsys.com/)*.(690 East Middlefield Road, Mountain View, CA 94043, USA)<br>  
   
   
+<hr>
   
 ### Skills:
   
@@ -169,6 +171,7 @@ Internship Project Title: Development of a Distributed Security Application usin
 **Language Known :-** C, C++, Python (Tensorflow, PyTorch), Verilog HDL<br>
 **Tool Exposure:-** Synopsys VCS (Verilog Compiler and Simulator) Tool, SimRegress tool, and Synopsys Tetramax.<br>  
   
+<hr>
   
 ### CERTIFICATES:
   
