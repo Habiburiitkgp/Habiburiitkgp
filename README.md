@@ -164,9 +164,9 @@ Internship Project Title: Development of a Distributed Security Application usin
   
   
   
-### Exposure:- Artificial Neural Network (ANN), Machine Learning (ML), CAD for Test and Diagnosis.
-### Language Known :- C, C++, Python (Tensorflow, PyTorch), Verilog HDL
-### Tool Exposure:- Synopsys VCS (Verilog Compiler and Simulator) Tool, SimRegress tool, and Synopsys Tetramax.  
+## Exposure:- Artificial Neural Network (ANN), Machine Learning (ML), CAD for Test and Diagnosis.
+## Language Known :- C, C++, Python (Tensorflow, PyTorch), Verilog HDL
+## Tool Exposure:- Synopsys VCS (Verilog Compiler and Simulator) Tool, SimRegress tool, and Synopsys Tetramax.  
   
   
 ### CERTIFICATES:
