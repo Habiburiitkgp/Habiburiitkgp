@@ -1,7 +1,7 @@
 
 
 - 👋 Hi, I’m Habibur Rahaman
-- 👀 I’m doing my Masters from Indian Institute of Technology Kharagpur(IIT KGP) in the Department of Computer Science and Engineering
+- :books: I’m doing my Masters from Indian Institute of Technology Kharagpur(IIT KGP) in the Department of Computer Science and Engineering
 
 
 - 📫 Social Handles Below ...  
