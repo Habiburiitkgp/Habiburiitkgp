@@ -15,7 +15,7 @@
 
 <hr>
 
-### Research Interest
+### :red_circle:Research Interest
 - Machine Learning based Testing and Diagnosis of Digital Circuits.<br>
 - CAD for VLSI<br>
 - AI driven Hardware Security and IOT Security.<br>
