@@ -56,7 +56,7 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 
 
 
-### EDUCATION
+### :red_circle:EDUCATION
 
 **[Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/)** <span style="float: right; ">2019 - Present</span>  
 
@@ -87,7 +87,7 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
   
   
   
-### PUBLICATIONS
+### :red_circle: PUBLICATIONS
   
   
   
