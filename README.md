@@ -10,6 +10,17 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Habiburiitkgp) 
 [![Google Scholar](https://drive.google.com/file/d/1glwDvd7sGqYTuPIIwEprNFzX2DVIaRZG/view?usp=sharing)](https://scholar.google.com/citations?user=jU1-z9UAAAAJ&hl=en)
 
+<hr>
+
+### Research Interest
+- Machine Learning based Testing and Diagnosis of Digital Circuits.<br>
+- CAD for VLSI<br>
+- AI driven Hardware Security and IOT Security.<br>
+<hr>
+
+
+
+
 
 <!---
 Habiburiitkgp/Habiburiitkgp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -72,7 +83,7 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
 
   
   
-
+  
 ### PUBLICATIONS
   
   
@@ -149,11 +160,27 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
 ### Internships 
   
  
-**Indian Institute of Technology Kharagpur**<span style="float: right; ">May 2018 - Jul 2018</span>  
+**1) Indian Institute of Technology Kharagpur**<span style="float: right; ">May 2018 - Jul 2018</span>  
 
 *Department of Computer Science and Engineering*  
   
-Internship Project Title: Development of a Distributed Security Application using Blockchain Technology under the supervision of Prof. Indranil Sengupta , Department of Computer Science and Engineering, IIT Kharagpur
+**Internship Project Title:** Development of a Distributed Security Application using Blockchain Technology under the supervision of Prof. Indranil Sengupta , Department of Computer Science and Engineering, IIT Kharagpur<br>
+  
+**2) Summer Internship at Indian Institute of Engineering Science and Technology (Shibpur)**<span style="float: right; ">Jun 2017 - Jul 2017</span> 
+  
+*Department of Computer Science and Engineering*
+  
+**Project Title:** Defect tolerant Approaches for function mapping<br>  
+  
+  
+<hr>  
+  
+### Projects:
+
+**“Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits”**  
+<br>Sponsored by *[Synopsys Inc](https://www.synopsys.com/)*.(690 East Middlefield Road, Mountain View, CA 94043, USA)<br>  
+  
+
   
 <hr>
   
@@ -171,7 +198,16 @@ Internship Project Title: Development of a Distributed Security Application usin
 **Language Known :-** C, C++, Python (Tensorflow, PyTorch), Verilog HDL<br>
 **Tool Exposure:-** Synopsys VCS (Verilog Compiler and Simulator) Tool, SimRegress tool, and Synopsys Tetramax.<br>  
   
-<hr>
+<hr>  
+  
+  
+### INTERPERSONAL SKILLS: 
+  
+- Ability to rapidly build relationship and set up trust.
+- Confident and Determined.
+- Ability to cope up with different situations.
+  
+<hr>  
   
 ### CERTIFICATES:
   
@@ -179,5 +215,11 @@ Internship Project Title: Development of a Distributed Security Application usin
 **Build Basic Generative Adversarial Networks (GANs)** an online non-credit course authorized by DeepLearning.AI and offered through Coursera)*[Build Basic Generative Adversarial Networks (GANs)](https://coursera.org/share/6b9236d851f468990866036079fd967c)*
 <hr>    
 
+### CO-/EXTRA –CURRICULAR ACTIVITIES: 
 
+Interested in Skecting and photography<br>  
   
+Interest and Hobbies :- Internet browsing, coding, badminton and reading novel, drawing<br>
+<hr>  
+
+
