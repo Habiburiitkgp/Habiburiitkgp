@@ -1,5 +1,4 @@
 
-![alt text](https://github.com/Habiburiitkgp/Habibur-Rahaman/blob/main/images/kgp.jpg)
 
 - 👋 Hi, I’m Habibur Rahaman
 - :books: I’m doing my Masters from Indian Institute of Technology Kharagpur(IIT KGP) in the Department of Computer Science and Engineering
