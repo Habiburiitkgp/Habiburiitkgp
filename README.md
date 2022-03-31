@@ -228,4 +228,4 @@ Interested in Skecting and photography<br>
 Interest and Hobbies :- Internet browsing, coding, badminton and reading novel, drawing<br>
 <hr>  
 
-
+  <p style="right:0;"> Created by </p>
