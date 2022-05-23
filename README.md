@@ -89,7 +89,7 @@ Bachelor of Technology <span style="float: right; ">CGPA: 8.2</span>
   
 ### :red_circle: PUBLICATIONS
   
-  
+**2022 VLSID DESIGN CONFERENCE** - Habibur Rahaman(Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) ; Debesh Das (Department of Computer Science and Engineering,Jadavpur University, India) ; Bhargab B. Bhattacharya (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Easily Verifiable Design of Non-Scan Sequential Machines for Conformance Checking](https://vlsid.org/vlsi-2022-call-for-paper/)*
   
 
 **2022 Journal of Circuits, Systems and Computers** - Habibur Rahaman (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India); Santanu Chattopadhyay (Indian Institute of Technology Kharagpur, India); Indranil Sengupta (Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India) *[Conformance Testing for Finite State Machines Guided by Deep Neural Network](https://www.worldscientific.com/doi/abs/10.1142/S0218126622501560)*
