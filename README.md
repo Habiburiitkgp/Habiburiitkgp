@@ -60,7 +60,7 @@ Currently, I am doing my Masters in the Department of Computer Science and Engin
 
 **[Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/)** <span style="float: right; ">2019 - Present</span>  
 
-Masters in Computer Science and Engineering Under *[Prof Indranil Sengupta](http://www.facweb.iitkgp.ac.in/~isg/)* and *[Prof.Santanu Chattopadhyay](https://scholar.google.co.in/citations?user=YxNMDbIAAAAJ&hl=en)*<span style="float: right; ">
+Masters in Computer Science and Engineering Under *[Prof Indranil Sengupta](http://www.facweb.iitkgp.ac.in/~isg/)* and *[Prof.Santanu Chattopadhyay](https://scholar.google.co.in/citations?user=YxNMDbIAAAAJ&hl=en)*<span style="float: right; ">CGPA: 9.71</span>
   
 Topic: Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits
 
